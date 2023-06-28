@@ -15,6 +15,8 @@ export const Capa = styled.div`
     display: block;
     width: 100%;
     margin-bottom: 8px;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
   }
 `
 
